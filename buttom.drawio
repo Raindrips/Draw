@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T10:10:42.504Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="QnsncdgwkRb1quqGPfqO" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-18T03:08:34.841Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="TkJGo0nyB9zgAi-XX_kb" version="24.0.7" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1238" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1061" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -111,6 +111,9 @@
         <mxCell id="RcMuWe0LuzicDSWimL45-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RcMuWe0LuzicDSWimL45-55" target="RcMuWe0LuzicDSWimL45-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="RcMuWe0LuzicDSWimL45-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RcMuWe0LuzicDSWimL45-55" target="RcMuWe0LuzicDSWimL45-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RcMuWe0LuzicDSWimL45-55" value="响应请求" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=14;fontStyle=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="554" y="585" width="120" height="45" as="geometry" />
         </mxCell>
@@ -120,6 +123,14 @@
         <mxCell id="RcMuWe0LuzicDSWimL45-56" value="停止" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=14;fontStyle=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="770" y="585" width="120" height="45" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ae6h9OL-htiFPfBYN5Hu" name="第 2 页">
+    <mxGraphModel dx="743" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
